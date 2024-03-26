@@ -25,11 +25,11 @@ public class Exercicio7Lista2 {
         LarguraArea = sc.nextDouble();
         System.out.println(" Informe o comprimento da área a ser revestida: ");
         ComprimentoArea = sc.nextDouble();
-        System.out.println(" Informe a largura da cerãmica escolhida: ");
+        System.out.println(" Informe a largura da cerâmica escolhida: ");
         LarguraCeramica = sc.nextDouble();
         System.out.println(" Informe o comprimento da cerâmica escolhida: ");
         ComprimentoCeramica = sc.nextDouble();
-        System.out.println(" Informe a valor do metro quadrado de ceramica: ");
+        System.out.println(" Informe a valor do metro quadrado de cerâmica: ");
         ValorMetro = sc.nextDouble();
         
         area1 = (LarguraArea * ComprimentoArea);
@@ -39,7 +39,7 @@ public class Exercicio7Lista2 {
         ValorFinal = (total * areaCeramica)* ValorMetro;
         
         System.out.println("o total de ceramica necessário para cobrir a área é:" + total);
-         System.out.println("o Valor total de ceramica necessário para cobrir a área é:" + "R$ " + ValorFinal);
+         System.out.println("o Valor total de cerâmica necessário para cobrir a área é:" + "R$ " + ValorFinal);
         
         
     }
