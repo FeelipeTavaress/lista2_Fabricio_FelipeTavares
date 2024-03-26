@@ -38,7 +38,7 @@ public class Exercicio7Lista2 {
         total =(area1 / areaCeramica)+ porcentagem;
         ValorFinal = (total * areaCeramica)* ValorMetro;
         
-        System.out.println("o total de ceramica necessário para cobrir a área é:" + total);
+        System.out.println("o total de cerâmica necessário para cobrir a área é:" + total);
          System.out.println("o Valor total de cerâmica necessário para cobrir a área é:" + "R$ " + ValorFinal);
         
         
