@@ -26,7 +26,7 @@ public class Exercicio11Lista2 {
        
         System.out.println(" O consumo em KW/h é: "+ KWh);
         
-          System.out.println(" O valor total a ser pago é: "+ valorfinal);
+          System.out.println(" O valor total a ser pago por dia é: "+ valorfinal + );
        
        
     }
